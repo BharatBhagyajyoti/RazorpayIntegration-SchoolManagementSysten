@@ -61,6 +61,5 @@ Open `http://localhost:8080` in your browser.
 Contributions are welcome! Please fork the repository and create a pull request.
 
 
-## Contact
-For any inquiries, please contact [Your Email].
+
 
